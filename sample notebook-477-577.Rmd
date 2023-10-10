@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+---
+
+#### Sample R Notebook
+
+You can have text outside of code chunks. For example, state what question(s) you are planning to answer in this analyses
+
+```{r}
+#This is a code chunk
+#Include sample code here
+```
+
+Feel free to include more description/text between code chunks.
+
+```{r}
+#This is another code chunk
+#Include sample code here
+```
+
+Response required: Describe and summarize your analyses below.
+
+Response required: Describe and cite any resource or external support used to complete this lab assignment. You should clearly cite and specify any source of support, including but not limited to, the use of online and physical materials, software tools and websites, human tutors, digital tutors, programming assistants, and any other form of artificial intelligence (AI) tools.
